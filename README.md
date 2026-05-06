@@ -85,4 +85,9 @@ This is the same operation the [upstream web tool](https://bellingcat.github.io/
 
 All credit for the underlying decoding technique goes to [Bellingcat's tiktok-timestamp](https://github.com/bellingcat/tiktok-timestamp), which is in turn based on [Ryan Benson's research](https://dfir.blog/tinkering-with-tiktok-timestamps/). This fork just wraps the same logic in a Python CLI for batch use.
 
+## Contributors
+
+- [@aschmitz860](https://github.com/aschmitz860) — Python CLI and repository maintenance
+- [Claude Code](https://claude.com/claude-code) (Anthropic) — paired on the upstream-fork migration, README expansion, and security review
+
 Released under the [MIT License](LICENSE) (inherited from upstream).
